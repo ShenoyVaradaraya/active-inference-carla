@@ -10,7 +10,7 @@ This repository implements an Active Inference agent that controls a vehicle in 
 
 ### CARLA Simulator
 - **CARLA 0.9.14** (this specific version is required)
-- Foolow installation instructions from : {}[https://learnopencv.com/ros2-and-carla-setup-guide/]
+- Follow installation instructions from :[https://learnopencv.com/ros2-and-carla-setup-guide/]
 
 ### Python Dependencies
 - Python 3.7+
