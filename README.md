@@ -111,23 +111,6 @@ pip install opencv-python
 - [Active Inference: A Process Theory](https://www.mitpressjournals.org/doi/full/10.1162/NECO_a_00912)
 - [Free Energy Principle](https://www.nature.com/articles/nrn2787)
 
-## License
-
-[Add your license here]
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## Authors
-
-- Varadaraya Shenoy
-
-## Acknowledgments
-
-- CARLA Simulator team
-- Active Inference research community
-
 ## Citation
 
 If you use this code in your research, please cite:
